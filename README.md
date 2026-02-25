@@ -1,6 +1,5 @@
-Hi, Riya here
+## Hi, I'm Riya
 
-# 💫 About Me:
 I’m currently working on Android app development<br>I’m currently learning Java, Kotlin, and database management<br>Ask me about Android development, Java programming, and UI design<br>Fun fact: I enjoy solving coding problems and turning concepts into useful apps
 
 
